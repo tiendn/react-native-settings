@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author             = { "author" => "erez@rumors.io" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/rmrs/react-native-settings.git", :tag => s.version.to_s }
-  s.source_files  = "RNSettings/**/*.{h,m}"
+  s.source_files  = "*.{h,m}"
   s.requires_arc = true
 
 
