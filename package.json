@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rmrs/react-native-settings.git"
+    "url": "https://github.com/tiendn/react-native-settings.git"
   },
   "scripts": {    
     "tag": "git tag \"v$npm_package_version\" && git push --tags",
